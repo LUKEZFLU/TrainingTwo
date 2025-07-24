@@ -3,11 +3,11 @@ const {add, subtract, multiply, divide} = require('./calculator1');
 let a, b;
 
 beforeAll(() => {
-    console.log('Starting all the tests')
+    console.log('🏁 Starting all the tests')
 })
 
 afterAll(() => {
-    console.log('All tests completed')
+    console.log('✅ All tests completed')
 })
 
 beforeEach(() => {
