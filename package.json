@@ -1,0 +1,13 @@
+{
+  "name": "trainingtwo",
+  "version": "1.0.0",
+  "description": "test application",
+  "license": "ISC",
+  "author": "Zefan Lu",
+  "type": "module",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node calculator.js",
+    "test": "jest"
+  }
+}
