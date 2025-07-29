@@ -6,7 +6,7 @@
 - [安装指南](#installation-guide)
 - [使用说明](#usage-instructions)
 - [常见问题](#faq)
-- [联系我们](#contact-us)
+- [联系我们](##联系我们)
 
 ## 项目介绍
 这里是项目的介绍内容，包含背景、目标等信息。
