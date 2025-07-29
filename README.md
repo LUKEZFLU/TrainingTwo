@@ -23,5 +23,5 @@
 ## 常见问题
 常见问题的解答。
 
-## contact
+## contacts {contact}
 联系方式和支持信息。
