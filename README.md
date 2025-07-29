@@ -1,8 +1,8 @@
 
 
 
-- [Logo](#A)
-- [HaHa](#B)
+- [Logo](#a)
+- [HaHa](#b)
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-# Logo {#A}
+# Logo {#a}
 
 
 
@@ -24,4 +24,4 @@
 
 
 
-# HaHa {#B}
+# HaHa {#b}
